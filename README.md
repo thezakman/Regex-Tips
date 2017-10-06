@@ -1,4 +1,4 @@
-☞ 📘 Regex-Tips 💬 
+☞ 📘✔️ Regex-Tips 💬 
 ==================================
 ### Well, I suck at memorizing stuff.
 ```
@@ -14,5 +14,5 @@ So why not make me Cheat sheet?
 
 ***
 
-🔗 Find out more @ [thezakman.github.io](http://thezakman.github.io/) ✔️
+🔗 Find out more @ [thezakman.github.io](http://thezakman.github.io/) 
 
