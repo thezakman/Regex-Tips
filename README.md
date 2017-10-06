@@ -2,7 +2,7 @@
 ==================================
 ### Well, I suck at memorizing stuff.
 ```
-So why not make me Cheat sheet?
+So why not make me a cheat sheet?
 ```
 
 ***
