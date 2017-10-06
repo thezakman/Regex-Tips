@@ -15,8 +15,8 @@ So why not make me Cheat sheet?
 | col 2 is        | centered      |
 | zebra stripes   | are neat      |
 
-**What it do?** | Regex |
---- | --- | ---
+**What it do?** | Regex 
+--- | --- 
 Find lines `with > than` 15 chrs |  **^.{15,}**
 Fing anything before `":"` | **.*:**
 
