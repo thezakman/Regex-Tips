@@ -10,7 +10,7 @@ So why not make me Cheat sheet?
 
 **What it do?** | Regex 
 --- | --- 
-*Find lines* `with > than` 15 chrs |  **^.{15,}**
+*Find lines* `with > than` **15** chrs |  **^.{15,}**
 *Fing anything before* `":"` | **.*:**
 
 ***
