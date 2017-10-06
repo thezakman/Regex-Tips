@@ -14,5 +14,5 @@ So why not make me Cheat sheet?
 
 ***
 
-:shipit: Find out more @ [thezakman.github.io](http://thezakman.github.io/)
+🔗 Find out more @ [thezakman.github.io](http://thezakman.github.io/) ✔️
 
