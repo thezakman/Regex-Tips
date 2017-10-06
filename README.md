@@ -1,5 +1,6 @@
-# Regex-Tips
+### ☞ Regex-Tips
 Well, I suck at memorizing.
+So why not make me Cheat sheet?
 
 
 ```
