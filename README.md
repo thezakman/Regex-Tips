@@ -10,8 +10,8 @@ So why not make me a cheat sheet?
 **What it do?** | Regex 
 --- | --- 
 *Find lines* `with > than` **15** chrs |  **^.{15,}**
-*Fing anything before* `":"` | **.*:**
-*Fing anything that is not a md5* | ^.{0,32}((\r?\n)|$)
+*Find anything before* `":"` | **.*:**
+*Find anything that is not a md5* | ^.{0,32}((\r?\n)|$)
 
 ***
 
